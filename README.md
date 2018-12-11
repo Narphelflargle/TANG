@@ -6,4 +6,3 @@ The initiative, dubbed TANG, employs a customized suite of Applied Design Method
 
 <a href="http://www.youtube.com/watch?v=i9kxffGWU8M" target="_blank">
   <img src="http://img.youtube.com/vi/i9kxffGWU8M/0.jpg" alt="TANG_OG" width="480" height="360" border="10" />
-</a>
